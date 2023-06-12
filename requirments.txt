@@ -1,0 +1,6 @@
+pip install openai
+pip intall --upgrade openai
+pip install gradio
+pip install --upgrade gradio
+
+
